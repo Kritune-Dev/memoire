@@ -14,7 +14,7 @@ export default function Home() {
 			<Head>
 				<title>Sondage | Ecole ostéopathie IdHEO</title>
 				<meta name="description" content="Cette page ressence les différents mémoires avec des sondages de l'école" />
-				<link rel="icon" href="/favicon.ico" />
+				<link rel="icon" href="https://www.idheo.com/wp-content/uploads/2018/10/favicon-idheo.png" />
 			</Head>
 				<BackgroundImage />
 				<main className="container-md relative z-5">
