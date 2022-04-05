@@ -9,7 +9,8 @@ module.exports = {
     domains: [
       'img.huffingtonpost.com', 
       'media.gettyimages.com',
-      'thumbs.dreamstime.com'
+      'thumbs.dreamstime.com',
+      'www.ville-senlis.fr'
     ],
   },
 }

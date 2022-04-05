@@ -7,8 +7,14 @@ import CardList from "../src/components/CardList"
 import { FilterProvider } from "../src/contexts/FilterContext"
 import BackgroundImage from "../src/components/BackgroundImage"
 import Footer from "../src/components/Footer"
+import Confirmation from "../src/components/Confirmation"
+
+import { useRouter } from 'next/router'
 
 export default function Home() {
+	const router = useRouter()
+  const {id, name} = router.query
+
 	return (
 		<div>
 			<Head>
@@ -19,6 +25,7 @@ export default function Home() {
 				<BackgroundImage />
 				<main className="container-md relative z-5">
 					<Hero />
+					<Confirmation id={id} name={name}/>
 					<FilterProvider>
 							<CardList />
 					</FilterProvider>
