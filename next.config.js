@@ -10,7 +10,8 @@ module.exports = {
       'img.huffingtonpost.com', 
       'media.gettyimages.com',
       'thumbs.dreamstime.com',
-      'www.ville-senlis.fr'
+      'www.ville-senlis.fr',
+      'www.idheo.com'
     ],
   },
 }

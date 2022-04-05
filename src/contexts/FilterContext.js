@@ -1,5 +1,5 @@
 import React, { createContext } from 'react'
-import useCardFilter from '../hooks/useCardFilter'
+import useCardFilter from '../utils/useCardFilter'
 
 const FilterContext = createContext()
 

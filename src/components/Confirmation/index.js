@@ -1,5 +1,4 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from "next/link"
 import s from "./Confirmation.module.scss"
 
 const Confirmation = ({ id, name }) => {

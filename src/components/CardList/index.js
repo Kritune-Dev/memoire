@@ -3,7 +3,7 @@ import Card from "../Card"
 import FilterDesktop from "../Filter/Desktop"
 import FilterMobile from "../Filter/Mobile"
 
-import useCard from "../../hooks/useCard"
+import useCard from "../../utils/useCard"
 
 import { FilterContext } from "../../contexts/FilterContext"
 

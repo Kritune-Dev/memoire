@@ -4,7 +4,7 @@ import Image from "next/image"
 import Ribbon from "../Ribbon"
 
 import s from "./Card.module.scss"
-import { createShimmerImage } from "../../utils"
+import { createShimmerImage } from "../../Utils/utils"
 
 const Card = ({ card }) => {
 	const isFeatured = featured => featured == "1"

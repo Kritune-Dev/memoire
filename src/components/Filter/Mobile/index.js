@@ -2,7 +2,7 @@ import React, { useState, useEffect, useContext } from 'react'
 import { MultiSelect } from 'react-multi-select-component'
 import s from './Filter.module.scss'
 
-import useTag from '../../../hooks/useTag'
+import useTag from '../../../utils/useTag'
 import { FilterContext } from '../../../contexts/FilterContext'
 
 const FilterMobile = () => {

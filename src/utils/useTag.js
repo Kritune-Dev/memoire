@@ -1,7 +1,7 @@
 import TagReducer from '../reducers/TagReducer'
 import { useEffect, useReducer } from 'react'
 
-import DS from '../../data/Datasource'
+import DS from './Datasource'
 
 const useTag = () => {
 	const [{ isLoading, tagList }, dispatch] = useReducer(TagReducer, {

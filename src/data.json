@@ -1,9 +1,9 @@
-const data = {
+{
     "cards": [
         {
-            "id": "Test",
+            "id": "0",
             "tags": [
-                "Test",
+                "Test"
             ],
             "link": "https://framaforms.org/test-1649148069",
             "image": "https://www.ville-senlis.fr/var/www/storage/images/mediatheque/ville-de-senlis/images/03_cadre-de-vie-environnement/04_travaux-et-voirie/icone-travaux/22617-1-fre-FR/Icone-travaux.jpg",
@@ -13,7 +13,7 @@ const data = {
             "featured": 1
         },
         {
-            "id": "Candice Behra",
+            "id": "1",
             "tags": [
                 "Sport",
                 "Blessures"
@@ -26,21 +26,21 @@ const data = {
             "featured": 1
         },
         {
-            "id": "Corentin Bacconnais",
+            "id": "2",
             "tags": [
-                "Sport",
+                "Sport"
             ],
             "link": "https://framaforms.org/pre-etude-sur-losteopathie-et-les-blessures-aux-muscles-ischio-jambiers-chez-les-sprinters",
             "image": "https://img.huffingtonpost.com/asset/5c933a4d2300003300ae357a.jpeg?ops=scalefit_720_noupscale",
             "title": "La récupération du sportif",
             "description": "Questionnaire sur l'évolution de la récupération chez le sportif (minimum 2 fois par semaines)",
-            "time": 8,
+            "time": 14,
             "featured": 1
         },
         {
-            "id": "Anael Beziau",
+            "id": "3",
             "tags": [
-                "Sport",
+                "Sport"
             ],
             "link": "https://framaforms.org/pre-etude-sur-losteopathie-et-les-blessures-aux-muscles-ischio-jambiers-chez-les-sprinters",
             "image": "https://thumbs.dreamstime.com/z/silhouette-de-danse-de-danseur-classique-de-ballerine-de-femme-33880621.jpg",
@@ -50,6 +50,4 @@ const data = {
             "featured": 0
         }
     ]
-};
-
-export default data;
+}

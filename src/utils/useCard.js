@@ -1,7 +1,7 @@
 import CardReducer from '../reducers/CardReducer'
 import { useEffect, useReducer } from 'react'
 
-import DS from '../../data/Datasource'
+import DS from './Datasource'
 
 const useCard = () => {
 	const [{ isLoading, cardList }, dispatch] = useReducer(CardReducer, {

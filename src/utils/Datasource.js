@@ -1,4 +1,4 @@
-import data from "./data";
+import data from "../data.json";
 
 /**
  * Get tag list from card's data
