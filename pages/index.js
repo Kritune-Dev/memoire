@@ -22,10 +22,11 @@ export default function Home() {
 				<meta name="description" content="Cette page ressence les différents mémoires avec des sondages de l'école" />
 				<link rel="icon" href="https://www.idheo.com/wp-content/uploads/2018/10/favicon-idheo.png" />
 			</Head>
+				<Confirmation id={id} name={name}/>
 				<BackgroundImage />
 				<main className="container-md relative z-5">
 					<Hero />
-					<Confirmation id={id} name={name}/>
+					
 					<FilterProvider>
 							<CardList />
 					</FilterProvider>
