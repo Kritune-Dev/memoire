@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "id": "0",
+            "id": 0,
             "tags": [
                 "Test"
             ],
@@ -13,7 +13,7 @@
             "featured": 1
         },
         {
-            "id": "1",
+            "id": 1,
             "tags": [
                 "Sport",
                 "Blessures"
@@ -26,7 +26,7 @@
             "featured": 1
         },
         {
-            "id": "2",
+            "id": 2,
             "tags": [
                 "Sport"
             ],
@@ -38,7 +38,7 @@
             "featured": 1
         },
         {
-            "id": "3",
+            "id": 3,
             "tags": [
                 "Sport"
             ],
