@@ -1,6 +1,7 @@
 // import the readline module for work with stdin, or stdout.
 const readline = require("readline")
 var dataJson = require("./data.json")
+var domains_authorised = require("./domains_authorised.json")
 var fs = require("fs")
 
 // create a readline object to work with the stream.
@@ -122,11 +123,18 @@ function questionImage() {
 //Fonction for question du temps
 function questionTime() {
     prompts.question("Entrer le temps du mémoire : ", time => {
-        data.time = time
+        //Parse le temps en int
+        data.time = parseInt(time)
+
+        //Si le temps est supérieur à 0 alors on le met en avant
+        if (data.time > 0) {
+            data.featured = 1
+        }
         //Efface la dernière ligne de la console
         process.stdout.write("\033[2A\033[0K")
         //Ecris le temps
         console.log("Temps : " + time)
+        
         //Saute une ligne et pose la question suivante
         //Efface la ligne actuelle
         console.log("")
@@ -182,8 +190,32 @@ function showDataAndValidate() {
 
 //Fonction pour ajouter les données dans le fichier data.json
 function addData() {
+    //Function to verify if image is a authorized domaine in domains_authorised.json
+    function isAuthorized(image) {
+        var authorized = false
+        for (var i = 0; i < domains_authorised.length; i++) {
+            if (image.includes(domains_authorised[i])) {
+                authorized = true
+            }
+        }
+        return authorized
+    }
+
+    //Si l'image n'est pas une image autorisée alors ajoute l'image dans le fichier domains_authorised.json
+    if (!isAuthorized(data.image)) {
+        //Recuperer le nom du domaine de l'image
+        var domain = data.image.split("/")[2]
+        //Ajouter le domaine dans le fichier domains_authorised.json
+        domains_authorised.domains.push(domain)
+        fs.writeFileSync(
+            "./data/domains_authorised.json",
+            JSON.stringify(domains_authorised)
+        )
+    }
+
+
     dataJson.cards.push(data)
-    fs.writeFile("./src/data.json", JSON.stringify(dataJson), err => {
+    fs.writeFile("./data/data.json", JSON.stringify(dataJson), err => {
         if (err) {
             console.log("Erreur lors de l'écriture du fichier data.json")
         } else {

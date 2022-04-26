@@ -1,4 +1,5 @@
 const path = require('path')
+const authorizedDomains = require('./data/domains_authorised.json')
 
 module.exports = {
   reactStrictMode: true,
@@ -6,12 +7,6 @@ module.exports = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
-    domains: [
-      'img.huffingtonpost.com', 
-      'media.gettyimages.com',
-      'thumbs.dreamstime.com',
-      'www.ville-senlis.fr',
-      'www.idheo.com'
-    ],
+    domains: authorizedDomains.domains,
   },
 }
