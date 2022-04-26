@@ -25,6 +25,8 @@ Here're some of the project's best features:
 *   Server-side-rending
 *   Data in src/data.json
 *   Auto-deploy in vercel.app
+*   Responsive design
+*   CLI for adding new data to the JSON file with the command `npm run data`
 
 <h2>🛠️ Installation Steps:</h2>
 
