@@ -6,13 +6,15 @@ const Confirmation = ({ id, name }) => {
 		return (
 			<div className={s.confirmation}>
 				<div className={s.container}>
-					<h2>Merci pour votre participation</h2>
-					<p>Vous avez participé au questionnaire : {name}</p>
-					<p>Vous êtes le formulaire n°{id}</p>
+					<h2>Merci beaucoup pour votre participation</h2>
+					<p>Information du questionnaire : {name} [N°{id}]</p>
 					<p>
 						<strong>
-							Merci de communiquer ces informations a votre praticien
+							Merci de communiquer ces informations à votre praticien
 						</strong>
+					</p>
+					<p>
+						<em>Ces données sont sécurisées et seront enregistrées si vous donnez votre accord oral au praticien</em>
 					</p>
 				</div>
 			</div>
