@@ -17,7 +17,7 @@
 			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
 			"title": "Questionnaire Covid Long",
 			"description": "Ce questionnaire a pour but de déterminer au fil des consultations les effets du traitements sur les symptômes des patients.",
-			"time": 5,
+			"time": 6,
 			"featured": 1
 		},
 		{
@@ -37,6 +37,26 @@
 			"image": "https://zupimages.net/viewer.php?id=22/17/uygh.png",
 			"title": "Danse et ostéopathie",
 			"description": "Questionnaire pour tous types de danseurs (amateur, professionnel, en formation professionnel) et pour tout type de danse (modern jazz, contemporain…)",
+			"time": 9,
+			"featured": 0
+		},
+		{
+			"id": 4,
+			"tags": ["Meditation pleine conscience", "Stress"],
+			"link": "https://framaforms.org/pleine-conscience-osteopathie-et-stress-1651130679",
+			"image": "https://resize.prod.docfr.doc-media.fr/img/var/doctissimo/storage/images/fr/www/medecines-douces/meditation/meditation-pleine-conscience/653552-1-fre-FR/meditation-pleine-conscience.jpg",
+			"title": "Pleine conscience, ostéopathie et stress",
+			"description": "Mémoire qui porte sur \"la pleine conscience, ostéopathie et le stress\" je vous propose de répondre au questionnaire suivant. L'échelle de stress perçu (PSS) est un instrument classique d'évaluation du stress personnel.",
+			"time": 0,
+			"featured": 0
+		},
+		{
+			"id": 5,
+			"tags": ["Pompiers"],
+			"link": "https://framaforms.org/sapeurs-pompiers-professionnels-1651064602",
+			"image": "https://st.depositphotos.com/1220004/4720/i/450/depositphotos_47200393-stock-photo-firefighters-in-action-while-connecting.jpg",
+			"title": "Sapeurs-Pompiers Professionnels",
+			"description": "Questionnaires suite à une période de réathéltisation après à une blessure perso ou pro chez les sapeurs-pompiers professionnels",
 			"time": 0,
 			"featured": 0
 		}
