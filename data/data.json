@@ -52,13 +52,23 @@
 		},
 		{
 			"id": 5,
-			"tags": ["Pompiers"],
+			"tags": ["Pompiers", "Blessure"],
 			"link": "https://framaforms.org/sapeurs-pompiers-professionnels-1651064602",
 			"image": "https://st.depositphotos.com/1220004/4720/i/450/depositphotos_47200393-stock-photo-firefighters-in-action-while-connecting.jpg",
 			"title": "Sapeurs-Pompiers Professionnels",
 			"description": "Questionnaires suite à une période de réathéltisation après à une blessure perso ou pro chez les sapeurs-pompiers professionnels",
 			"time": 0,
 			"featured": 0
+		},
+		{
+			"id": 6,
+			"tags": ["Sport", "Blessure"],
+			"link": "https://framaforms.org/questionnaire-devaluation-de-limpact-de-la-blessure-aux-muscles-ischio-jambiers-1650955953",
+			"image": "https://st.depositphotos.com/2069237/2607/i/450/depositphotos_26073603-stock-photo-hamstring-sprain-or-cramps.jpg",
+			"title": "Evaluation de l’impact de la blessure aux muscles ischio-jambiers",
+			"description": "Questionnaire pour les sportifs ayant eu une blessure au ischio-jambier après un effort de sprint",
+			"time": 5,
+			"featured": 1
 		}
 	]
 }
