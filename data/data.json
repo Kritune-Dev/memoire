@@ -9,6 +9,36 @@
 			"description": "Pour les sportif pratiquant au minimum 2 fois du sport par semaine",
 			"time": 10,
 			"featured": 1
+		},
+		{
+			"id": 1,
+			"tags": ["Covid"],
+			"link": "https://framaforms.org/questionnaire-covid-long-1651174474",
+			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
+			"title": "Questionnaire Covid Long",
+			"description": "Ce questionnaire a pour but de déterminer au fil des consultations les effets du traitements sur les symptômes des patients.",
+			"time": 5,
+			"featured": 1
+		},
+		{
+			"id": 2,
+			"tags": ["Anorexie mentale", "Trouble digestif"],
+			"link": "https://framaforms.org/prise-en-charge-osteopathique-des-troubles-digestifs-chez-les-patients-souffrant-danorexie-mentale",
+			"image": "https://tse1.mm.bing.net/th?id=OIP.mXBK07idiqqTVLEHLYJ0AwHaDt&pid=Api",
+			"title": "Troubles digestifs chez le patient soufrant d'anorexie mentale",
+			"description": "Evaluation de l'impact que pourrait avoir ou non une prise en charge ostéopathique notamment sur les troubles digestifs associés.",
+			"time": 7,
+			"featured": 1
+		},
+		{
+			"id": 3,
+			"tags": ["Danse", "Sport"],
+			"link": "https://framaforms.org/questionnaire-osteopathie-et-danse-cco-idheo-nantes-1649079798",
+			"image": "https://zupimages.net/viewer.php?id=22/17/uygh.png",
+			"title": "Danse et ostéopathie",
+			"description": "Questionnaire pour tous types de danseurs (amateur, professionnel, en formation professionnel) et pour tout type de danse (modern jazz, contemporain…)",
+			"time": 0,
+			"featured": 0
 		}
 	]
 }
