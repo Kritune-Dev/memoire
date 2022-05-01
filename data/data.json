@@ -2,7 +2,7 @@
 	"cards": [
 		{
 			"id": 0,
-			"show": false,
+			"show": true,
 			"tags": ["Sport"],
 			"link": "https://framaforms.org/la-recuperation-du-sportif-1651152805",
 			"image": "http://swimsmart.fr/wp-content/uploads/2018/01/cropped-AdobeStock_120181038-e1520002537342.jpeg",
