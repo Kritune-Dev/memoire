@@ -76,6 +76,28 @@
 			"description": "Questionnaire pour les sportifs ayant eu une blessure au ischio-jambier après un effort de sprint",
 			"time": 5,
 			"featured": 1
+		},
+		{
+			"id": 7,
+			"show": true,
+			"tags": ["Sport", "Incontinence urinaire"],
+			"link": "https://framaforms.org/questionnaire-devaluation-des-symptomes-des-incontinences-urinaires-deffort-et-de-la-qualite-de-vie",
+			"image": "https://static.wixstatic.com/media/f9f492f6f0da4e89bc39c0ebb058862a.jpg/v1/fill/w_463,h_308,al_c,q_80,usm_0.66_1.00_0.01/Running%20Athletic%20Women.jpg",
+			"title": "Incontinence urinaire d'effort chez la sportive nullipare",
+			"description": "Ce questionnaire s'adresse à toutes les sportives nullipares sujettent aux incontinences urinaires d'effort. L'objectif est d'évaluer les symptômes et la qualité de vie de ces patientes.",
+			"time": 4,
+			"featured": 1
+		},
+		{
+			"id": 8,
+			"show": true,
+			"tags": ["Sport"],
+			"link": "https://framaforms.org/questionnaire-dauto-evaluation-de-reprise-sportive-douleurs-de-poignets-en-gymnastique-artistique",
+			"image": "https://france3-regions.francetvinfo.fr/image/cMFfRqGLT8nWMRSFZK08kBvnh6A/930x620//filters:format(webp)/regions/2020/06/08/5ede9a0d6bee4_maxstockworld068130.jpg",
+			"title": "Ostéopathie et douleurs de poignets en gymnastique artistique ",
+			"description": "Questionnaire pour les gymnastes de n’importe quel niveau, que la pratique soit ancienne comme actuelle. Il sera à remplir après la consultation ostéopathique et la reprise sportive pour donner votre ressenti. Il ne comprend que 5 questions.",
+			"time": 1,
+			"featured": 1
 		}
 	]
 }
