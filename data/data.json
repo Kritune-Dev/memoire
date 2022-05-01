@@ -2,6 +2,7 @@
 	"cards": [
 		{
 			"id": 0,
+			"show": true,
 			"tags": ["Sport"],
 			"link": "https://framaforms.org/la-recuperation-du-sportif-1651152805",
 			"image": "http://swimsmart.fr/wp-content/uploads/2018/01/cropped-AdobeStock_120181038-e1520002537342.jpeg",
@@ -12,6 +13,7 @@
 		},
 		{
 			"id": 1,
+			"show": true,
 			"tags": ["Covid"],
 			"link": "https://framaforms.org/questionnaire-covid-long-1651174474",
 			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
@@ -22,6 +24,7 @@
 		},
 		{
 			"id": 2,
+			"show": true,
 			"tags": ["Anorexie mentale", "Trouble digestif"],
 			"link": "https://framaforms.org/prise-en-charge-osteopathique-des-troubles-digestifs-chez-les-patients-souffrant-danorexie-mentale",
 			"image": "https://tse1.mm.bing.net/th?id=OIP.mXBK07idiqqTVLEHLYJ0AwHaDt&pid=Api",
@@ -32,6 +35,7 @@
 		},
 		{
 			"id": 3,
+			"show": true,
 			"tags": ["Danse", "Sport"],
 			"link": "https://framaforms.org/questionnaire-osteopathie-et-danse-cco-idheo-nantes-1649079798",
 			"image": "https://zupimages.net/viewer.php?id=22/17/uygh.png",
@@ -42,6 +46,7 @@
 		},
 		{
 			"id": 4,
+			"show": true,
 			"tags": ["Meditation pleine conscience", "Stress"],
 			"link": "https://framaforms.org/pleine-conscience-osteopathie-et-stress-1651130679",
 			"image": "https://resize.prod.docfr.doc-media.fr/img/var/doctissimo/storage/images/fr/www/medecines-douces/meditation/meditation-pleine-conscience/653552-1-fre-FR/meditation-pleine-conscience.jpg",
@@ -52,6 +57,7 @@
 		},
 		{
 			"id": 5,
+			"show": true,
 			"tags": ["Pompiers", "Blessure"],
 			"link": "https://framaforms.org/sapeurs-pompiers-professionnels-1651064602",
 			"image": "https://st.depositphotos.com/1220004/4720/i/450/depositphotos_47200393-stock-photo-firefighters-in-action-while-connecting.jpg",
@@ -62,6 +68,7 @@
 		},
 		{
 			"id": 6,
+			"show": true,
 			"tags": ["Sport", "Blessure"],
 			"link": "https://framaforms.org/questionnaire-devaluation-de-limpact-de-la-blessure-aux-muscles-ischio-jambiers-1650955953",
 			"image": "https://st.depositphotos.com/2069237/2607/i/450/depositphotos_26073603-stock-photo-hamstring-sprain-or-cramps.jpg",
