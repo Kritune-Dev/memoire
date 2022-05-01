@@ -2,7 +2,7 @@
 	"cards": [
 		{
 			"id": 0,
-			"show": true,
+			"show": false,
 			"tags": ["Sport"],
 			"link": "https://framaforms.org/la-recuperation-du-sportif-1651152805",
 			"image": "http://swimsmart.fr/wp-content/uploads/2018/01/cropped-AdobeStock_120181038-e1520002537342.jpeg",
@@ -71,6 +71,8 @@
 			"show": true,
 			"tags": ["Sport", "Blessure"],
 			"link": "https://framaforms.org/questionnaire-devaluation-de-limpact-de-la-blessure-aux-muscles-ischio-jambiers-1650955953",
+			"linkbis": "https://framaforms.org/questionnaire-devaluation-de-limpact-de-la-blessure-aux-muscles-ischio-jambiers-1650955953",
+			"bisFacultatif": true,
 			"image": "https://st.depositphotos.com/2069237/2607/i/450/depositphotos_26073603-stock-photo-hamstring-sprain-or-cramps.jpg",
 			"title": "Evaluation de l’impact de la blessure aux muscles ischio-jambiers",
 			"description": "Questionnaire pour les sportifs ayant eu une blessure au ischio-jambier après un effort de sprint",
