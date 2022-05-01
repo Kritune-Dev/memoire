@@ -24,6 +24,7 @@ const prompts = readline.createInterface(process.stdin, process.stdout)
 // create the data object to add.
 var data = {
 	id: dataJson.cards.length,
+    show: true,
 	tags: [],
 	link: "",
 	image: "",
