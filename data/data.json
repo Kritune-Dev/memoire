@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 1,
-			"show": true,
+			"show": false,
 			"tags": ["Covid"],
 			"link": "https://framaforms.org/questionnaire-covid-long-1651174474",
 			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
@@ -97,6 +97,28 @@
 			"title": "Ostéopathie et douleurs de poignets en gymnastique artistique ",
 			"description": "Questionnaire pour les gymnastes de n’importe quel niveau, que la pratique soit ancienne comme actuelle. Il sera à remplir après la consultation ostéopathique et la reprise sportive pour donner votre ressenti. Il ne comprend que 5 questions.",
 			"time": 1,
+			"featured": 1
+		},
+		{
+			"id": 9,
+			"show": false,
+			"tags": ["Epaule"],
+			"link": "https://framaforms.org/douleur-depaule-et-osteopathie-1651137747",
+			"image": "https://www.zupimages.net/up/22/17/v096.jpg",
+			"title": "Douleur d'épaule et ostéopathie",
+			"description": "Le questionnaire suivant a pour but de d'évaluer l'évolution de vos douleur d'épaule suite à une prise en charge ostéopathique",
+			"time": 5,
+			"featured": 1
+		},
+		{
+			"id": 10,
+			"show": true,
+			"tags": ["Lombalgie"],
+			"link": "https://framaforms.org/questionnaire-lombalgie-aigue-de-ladulte-1651412831",
+			"image": "https://stress.app/blog/wp-content/uploads/2020/03/Lombalgie-1024x865.jpg",
+			"title": "Questionnaire Patient Lombalgie aiguë de l'adulte",
+			"description": "Patient (20-55ans) avec lombalgie aiguë depuis moins de 15 jours",
+			"time": 10,
 			"featured": 1
 		}
 	]
