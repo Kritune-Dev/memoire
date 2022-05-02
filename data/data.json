@@ -153,6 +153,17 @@
 			"description": "Ce questionnaire à pour but d'évaluer votre situation et votre état avant ou après une prise en charge ostéopathique",
 			"time": 3,
 			"featured": 1
+		},
+		{
+			"id": 14,
+			"show": false,
+			"tags": ["Handicap"],
+			"link": "",
+			"image": "https://www.diagnostic-accessibilite.fr/wp-content/uploads/2019/06/7795708249_sommes-nous-tous-a-l-abri-du-handicap-la-vie-vue-d-un-fauteuil-roulant.jpg",
+			"title": "Handicaps moteurs et douleurs d'épaule",
+			"description": "Mémoire sur les douleurs d'épaule rencontrées chez les personnes étant quotidiennement en fauteuil roulant",
+			"time": 5,
+			"featured": 1
 		}
 	]
 }
