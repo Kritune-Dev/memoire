@@ -120,6 +120,28 @@
 			"description": "Patient (20-55ans) avec lombalgie aiguë depuis moins de 15 jours",
 			"time": 3,
 			"featured": 1
+		},
+		{
+			"id": 11,
+			"show": true,
+			"tags": ["Prader-Willi"],
+			"link": "https://framaforms.org/osteopathie-et-syndrome-de-prader-willi-1651130252",
+			"image": "https://osteopathelausannemichaud.ch/wp-content/uploads/2018/07/mainpiedbb-1024x768.jpg",
+			"title": "Ostéopathie et syndrome de Preder-Willi",
+			"description": "Etude de l'interet de la prise en charge osteopathique au sein d'une prise en charge pluridisciplinaire pour les patients atteints du syndrome prader-willi",
+			"time": 0,
+			"featured": 0
+		},
+		{
+			"id": 12,
+			"show": true,
+			"tags": ["Lupus"],
+			"link": "https://framaforms.org/la-prise-en-charge-osteopathique-des-patients-atteints-de-lupus-1639662110",
+			"image": "https://th.bing.com/th/id/OIP.rcxZcUOCPrU9LUfo5RVUIQAAAA?pid=ImgDet&rs=1",
+			"title": "Lupus et ostéopathie",
+			"description": "Etude de la place de l'ostéopathie dans la prise en charge complémentaire des patients atteints de lupus",
+			"time": 5,
+			"featured": 1
 		}
 	]
 }
