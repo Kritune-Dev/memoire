@@ -142,6 +142,17 @@
 			"description": "Etude de la place de l'ostéopathie dans la prise en charge complémentaire des patients atteints de lupus",
 			"time": 5,
 			"featured": 1
+		},
+		{
+			"id": 13,
+			"show": true,
+			"tags": ["Endometriose", "Dyspareunie"],
+			"link": " https://framaforms.org/endometriose-et-dyspareunie-1651227870 ",
+			"image": "",
+			"title": "Endométriose et dyspareunie",
+			"description": "Ce questionnaire à pour but d'évaluer votre situation et votre état avant ou après une prise en charge ostéopathique",
+			"time": 3,
+			"featured": 1
 		}
 	]
 }
