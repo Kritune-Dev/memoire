@@ -14,7 +14,7 @@
 		{
 			"id": 1,
 			"show": false,
-			"tags": ["Covid"],
+			"tags": ["Covid", "Pathologie"],
 			"link": "https://framaforms.org/questionnaire-covid-long-1651174474",
 			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
 			"title": "Questionnaire Covid Long",
@@ -25,7 +25,7 @@
 		{
 			"id": 2,
 			"show": true,
-			"tags": ["Anorexie mentale", "Trouble digestif"],
+			"tags": ["Anorexie mentale", "Trouble digestif", "Pathologie"],
 			"link": "https://framaforms.org/prise-en-charge-osteopathique-des-troubles-digestifs-chez-les-patients-souffrant-danorexie-mentale",
 			"image": "https://tse1.mm.bing.net/th?id=OIP.mXBK07idiqqTVLEHLYJ0AwHaDt&pid=Api",
 			"title": "Troubles digestifs chez le patient soufrant d'anorexie mentale",
@@ -124,7 +124,7 @@
 		{
 			"id": 11,
 			"show": true,
-			"tags": ["Prader-Willi"],
+			"tags": ["Prader-Willi", "Pathologie"],
 			"link": "https://framaforms.org/osteopathie-et-syndrome-de-prader-willi-1651130525",
 			"image": "https://osteopathelausannemichaud.ch/wp-content/uploads/2018/07/mainpiedbb-1024x768.jpg",
 			"title": "Ostéopathie et syndrome de Preder-Willi",
@@ -135,7 +135,7 @@
 		{
 			"id": 12,
 			"show": true,
-			"tags": ["Lupus"],
+			"tags": ["Lupus", "Pathologie"],
 			"link": "https://framaforms.org/la-prise-en-charge-osteopathique-des-patients-atteints-de-lupus-1639662110",
 			"image": "https://th.bing.com/th/id/OIP.rcxZcUOCPrU9LUfo5RVUIQAAAA?pid=ImgDet&rs=1",
 			"title": "Lupus et ostéopathie",
@@ -146,7 +146,7 @@
 		{
 			"id": 13,
 			"show": true,
-			"tags": ["Endometriose", "Dyspareunie"],
+			"tags": ["Endometriose", "Dyspareunie", "Pathologie"],
 			"link": " https://framaforms.org/endometriose-et-dyspareunie-1651227870 ",
 			"image": "",
 			"title": "Endométriose et dyspareunie",
@@ -157,7 +157,7 @@
 		{
 			"id": 14,
 			"show": false,
-			"tags": ["Handicap"],
+			"tags": ["Handicap", "Epaule"],
 			"link": "",
 			"image": "https://www.diagnostic-accessibilite.fr/wp-content/uploads/2019/06/7795708249_sommes-nous-tous-a-l-abri-du-handicap-la-vie-vue-d-un-fauteuil-roulant.jpg",
 			"title": "Handicaps moteurs et douleurs d'épaule",
