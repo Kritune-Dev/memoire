@@ -3,6 +3,18 @@ import s from "./Confirmation.module.scss"
 
 const Confirmation = ({ id, name }) => {
 	if (id !== undefined && name !== undefined) {
+
+		//Log l'heure, la date, le nom du memoire et l'id de soumission
+		const log = () => {
+			const date = new Date()
+			const time = date.toLocaleTimeString()
+			const dateString = date.toLocaleDateString()
+			const log = `[${dateString} ${time}] : ${name} - numéro ${id}`
+			console.info(log)
+		}
+
+		log()
+
 		return (
 			<div className={s.confirmation}>
 				<div className={s.container}>
