@@ -9,7 +9,13 @@ const Confirmation = ({ id, name }) => {
 			const date = new Date()
 			const time = date.toLocaleTimeString()
 			const dateString = date.toLocaleDateString()
-			const log = `[${dateString} ${time}] : ${name} - numéro ${id}`
+			const log = {
+				time: time,
+				date: dateString,
+				type: "New submission",
+				name: name,
+				id: id
+			}
 			console.info(log)
 		}
 
