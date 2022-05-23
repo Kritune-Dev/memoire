@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 1,
-			"show": false,
+			"show": true,
 			"tags": ["Covid", "Pathologie"],
 			"link": "https://framaforms.org/questionnaire-covid-long-1651174474",
 			"image": "https://framaforms.org/sites/default/files/forms/img/osno25-p2-1.jpg",
@@ -127,7 +127,7 @@
 			"tags": ["Prader-Willi", "Pathologie"],
 			"link": "https://framaforms.org/osteopathie-et-syndrome-de-prader-willi-1651130525",
 			"image": "https://osteopathelausannemichaud.ch/wp-content/uploads/2018/07/mainpiedbb-1024x768.jpg",
-			"title": "Ostéopathie et syndrome de Preder-Willi",
+			"title": "Ostéopathie et syndrome de Prader-Willi",
 			"description": "Etude de l'interet de la prise en charge osteopathique au sein d'une prise en charge pluridisciplinaire pour les patients atteints du syndrome prader-willi",
 			"time": 0,
 			"featured": 0
