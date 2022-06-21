@@ -164,6 +164,17 @@
 			"description": "Mémoire sur les douleurs d'épaule rencontrées chez les personnes étant quotidiennement en fauteuil roulant",
 			"time": 5,
 			"featured": 1
+		},
+		{
+			"id": 15,
+			"show": true,
+			"tags": ["Syndrome Premenstruel"],
+			"link": "https://framaforms.org/syndrome-pre-menstruel-et-osteopathie-1652166967",
+			"image": "https://zupimages.net/up/22/25/3zuc.jpg",
+			"title": "Syndrome pré-menstruel et ostéopathie",
+			"description": "Mémoire sur le syndrome pré-menstruel et ostéopathie.",
+			"time": 3,
+			"featured": 1
 		}
 	]
 }
