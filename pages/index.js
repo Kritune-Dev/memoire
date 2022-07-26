@@ -13,7 +13,7 @@ import { useRouter } from 'next/router'
 
 export default function Home() {
 	const router = useRouter()
-  const {id, name} = router.query
+  	const {id, name, link} = router.query
 
 	return (
 		<div>
@@ -28,7 +28,7 @@ export default function Home() {
 					<Hero />
 					
 					<FilterProvider>
-							<CardList />
+							<CardList link={link}/>
 					</FilterProvider>
 				</main>
 				<Footer></Footer>
