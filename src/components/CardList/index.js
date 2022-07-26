@@ -18,7 +18,10 @@ const CardList = ({ link }) => {
 			: true
 	}
 	
-	if (link !== undefined) {console.log("TODO Faire redirection")}
+	if (link !== undefined) {
+		const linkFind = cardList.find(el => el.id == link).link ;
+		console.log("TODO Faire redirection vers le lien suivant : " + linkFind)
+	}
 
 	return (
 		<div className={`shadow-sm p-3 mb-5 rounded ${'bg-white'}`} id="cards">
