@@ -7,7 +7,7 @@ import useCard from "../../utils/useCard"
 
 import { FilterContext } from "../../contexts/FilterContext"
 
-const CardList = () => {
+const CardList = ({ link }) => {
 	const { isLoading, cardList } = useCard()
 
 	const { filterByTags } = useContext(FilterContext)
@@ -17,6 +17,8 @@ const CardList = () => {
 			? card.tags.filter(value => tags.includes(value.toLowerCase())).length > 0
 			: true
 	}
+	
+	if (link !== undefined) {console.log("TODO Faire redirection")}
 
 	return (
 		<div className={`shadow-sm p-3 mb-5 rounded ${'bg-white'}`} id="cards">
