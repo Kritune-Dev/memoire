@@ -170,10 +170,21 @@
 			"show": true,
 			"tags": ["Syndrome Premenstruel"],
 			"link": "https://framaforms.org/syndrome-pre-menstruel-et-osteopathie-1652166967",
-			"image": "https://zupimages.net/up/22/25/3zuc.jpg",
+			"image": "https://www.zupimages.net/up/22/25/3zuc.jpg",
 			"title": "Syndrome pré-menstruel et ostéopathie",
 			"description": "Mémoire sur le syndrome pré-menstruel et ostéopathie.",
 			"time": 3,
+			"featured": 1
+		},
+		{
+			"id": 16,
+			"show": true,
+			"tags": ["Prothèse hanche"],
+			"link": "https://framaforms.org/complementarite-kine-osteopathe-et-prothese-de-hanche-1640434779",
+			"image": "https://m.mcdn.fr/files/images/article/2/6/1/752162/1918175-inline.jpg",
+			"title": "Complémentarité kiné-ostéopathe et prothèse de hanche",
+			"description": "Mémoire sur la complémentarité kiné-ostéopathe et prothèse de hanche.",
+			"time": 5,
 			"featured": 1
 		}
 	]
