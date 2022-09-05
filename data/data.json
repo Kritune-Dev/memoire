@@ -186,6 +186,17 @@
 			"description": "Mémoire sur la complémentarité kiné-ostéopathe et prothèse de hanche.",
 			"time": 5,
 			"featured": 1
+		},
+		{
+			"id": 17,
+			"show": true,
+			"tags": ["Eczéma"],
+			"link": "https://framaforms.org/eczema-patients-1633697869",
+			"image": "https://qdermatology.com.au/app/uploads/2019/06/QDM-Image-4.jpg",
+			"title": "Eczéma et ostéopathie",
+			"description": "Mémoire sur l'éczéma et l'ostéopathie.",
+			"time": 0,
+			"featured": 0
 		}
 	]
 }
