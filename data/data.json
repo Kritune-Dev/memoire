@@ -197,6 +197,17 @@
 			"description": "Mémoire sur l'éczéma et l'ostéopathie.",
 			"time": 0,
 			"featured": 0
+		},
+		{
+			"id": 18,
+			"show": true,
+			"tags": ["Communication", "Nocebo"],
+			"link": "https://framaforms.org/effet-nocebo-dans-la-communication-du-praticien-au-patient-en-osteopathie-1662641328",
+			"image": "https://hallr.com/wp-content/uploads/2017/01/communication-1200x671.jpg",
+			"title": "Effet nocebo dans la communication du praticien",
+			"description": "Effet nocebo dans la communication du praticien au patient en ostéopathie.",
+			"time": 0,
+			"featured": 0
 		}
 	]
 }
