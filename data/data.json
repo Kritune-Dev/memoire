@@ -3,13 +3,13 @@
 		{
 			"id": 0,
 			"show": true,
-			"tags": ["Sport"],
-			"link": "https://framaforms.org/la-recuperation-du-sportif-1651152805",
-			"image": "http://swimsmart.fr/wp-content/uploads/2018/01/cropped-AdobeStock_120181038-e1520002537342.jpeg",
-			"title": "Ostéopathie et récupération du sportif",
-			"description": "Pour les sportif pratiquant au minimum 2 fois du sport par semaine",
-			"time": 10,
-			"featured": 1
+			"tags": ["Communication", "Nocebo"],
+			"link": "https://framaforms.org/effet-nocebo-dans-la-communication-du-praticien-au-patient-en-osteopathie-1662641328",
+			"image": "https://hallr.com/wp-content/uploads/2017/01/communication-1200x671.jpg",
+			"title": "Effet nocebo dans la communication du praticien",
+			"description": "Effet nocebo dans la communication du praticien au patient en ostéopathie.",
+			"time": 0,
+			"featured": 0
 		},
 		{
 			"id": 1,
@@ -201,11 +201,11 @@
 		{
 			"id": 18,
 			"show": true,
-			"tags": ["Communication", "Nocebo"],
-			"link": "https://framaforms.org/effet-nocebo-dans-la-communication-du-praticien-au-patient-en-osteopathie-1662641328",
-			"image": "https://hallr.com/wp-content/uploads/2017/01/communication-1200x671.jpg",
-			"title": "Effet nocebo dans la communication du praticien",
-			"description": "Effet nocebo dans la communication du praticien au patient en ostéopathie.",
+			"tags": ["Sport"],
+			"link": "https://framaforms.org/osteopathie-et-basketball-patients-bis-1655283553",
+			"image": "https://dailypost.ng/wp-content/uploads/2015/03/Michael-Jordan.jpg",
+			"title": "Ostéopathie et Basketball ",
+			"description": "Ce questionnaire s'adresse aux basketteurs et aux basketteuses de plus de 12ans jouant à n'importe quel niveau",
 			"time": 0,
 			"featured": 0
 		}
